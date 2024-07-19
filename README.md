@@ -1,7 +1,7 @@
 # Graph-viewer
 ## Graph Viewing Website
 The website is still under development but you can go to Graph Viewer 3 and create our own Graph! The 'Enable Dragend' option switches on or off the fixed nature of a node after dragging it.
-To run just simply run the command `npm run dev` or just goto the Github Page: 
+To run just simply run the command `npm run dev` or just goto the [Vercel Page](https://graph-viewer-ek6q.vercel.app/)
 
 Note: For uploading Excel file, ensure the table has row and column headings with cell A1 empty.
 
