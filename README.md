@@ -1,3 +1,10 @@
+# Graph-viewer
+## Graph Viewing Website
+The website is still under development but you can go to Graph Viewer 3 and create our own Graph! The 'Enable Dragend' option switches on or off the fixed nature of a node after dragging it.
+To run just simply run the command `npm run dev` or just goto the Github Page: 
+
+Note: For uploading Excel file, ensure the table has row and column headings with cell A1 empty.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
